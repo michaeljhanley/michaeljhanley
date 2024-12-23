@@ -30,7 +30,6 @@ An analysis of behavior trends related to rideshare app use at SFO Airport, incl
 
 ## 🛠️ Ongoing Learning
 - Building **data-driven dashboards** for exploratory analysis.
-- Diving deeper into **predictive modeling** and **machine learning techniques**.
 - Expanding knowledge of **statistical programming in R**.
 
 <!-- ## 📝 Featured Articles & Insights
