@@ -16,7 +16,6 @@ An analysis of behavior trends related to rideshare app use at SFO Airport, incl
 
 ## 🚀 Skills & Tools
 - **Programming**: Python, SQL, R
-- **Spreadsheets & Databases**: Excel (Advanced), Postgres, SQLite
 - **Data Visualization**: Tableau
 
 ## 🌐 Connect with Me
