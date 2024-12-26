@@ -8,11 +8,11 @@ Welcome to my GitHub! I'm a passionate **data analyst** with a keen interest in 
 - 🛠️ Proactively building a portfolio showcasing expertise in **data storytelling**, **statistical programming**, and **data-driven problem-solving**.
 
 ## 💼 Portfolio Highlights
-### 📈 [SFO Transportation Analysis](https://github.com/michaeljhanley/sfo-survey-viz) [WIP]
+### 📈 [SFO Transportation Analysis](https://github.com/michaeljhanley/sfo-survey-viz)
 An analysis of behavior trends related to rideshare app use at SFO Airport, including:
 - **Data Cleaning**: Prepared raw survey data for analysis in Excel.
 - **Visualization**: Created pivot tables and charts for presentation-ready visuals.
-- **Insights**: Delivered actionable recommendations for improving rideshare services.
+- **Insights**: Delivered actionable recommendations for improving transportation services.
 
 ## 🚀 Skills & Tools
 - **Programming**: Python, SQL, R
