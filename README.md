@@ -14,6 +14,12 @@ An analysis of behavior trends related to rideshare app use at SFO Airport, incl
 - **Visualization**: Created pivot tables and charts for presentation-ready visuals.
 - **Insights**: Delivered actionable recommendations for improving transportation services.
 
+### 🛫 [SEA Flight Delay Analysis](https://github.com/michaeljhanley/flight-delay-analysis)
+An analysis of Alaska Airlines departure delays from Seattle-Tacoma International Airport in 2023, using R and Python for:
+- **Data Cleaning**: Standardized timestamps, validating flight codes, and handled missing delay values using pandas.
+- **Feature Engineering**: Building columns/variables from available data to answer business questions (in progress).
+- **Analysis & Visualization**: Analyzing data in R, then building static visualizations in Seaborn/Matplotlib. Transforming resulting charts into an infographic using Affinity Designer (planned).
+
 ## 🚀 Skills & Tools
 - **Programming**: Python, SQL, R
 - **Data Visualization**: Tableau
