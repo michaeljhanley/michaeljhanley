@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate **data analyst** with a keen interest in 
 
 ## 🔍 About Me
 - 📊 Skilled in **Python**, **SQL**, **R**, **Excel**, and **Tableau**, with experience in data cleaning, visualization, and analysis.
-- 🌍 Exploring self-guided projects in **transportation**, **survey analytics**, and **business intelligence**.
+- 🌍 Exploring self-guided projects in **transportation**, **survey analytics**, and **research statistics**.
 - 🛠️ Proactively building a portfolio showcasing expertise in **data storytelling**, **statistical programming**, and **data-driven problem-solving**.
 
 ## 💼 Portfolio Highlights
