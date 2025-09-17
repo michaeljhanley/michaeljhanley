@@ -1,6 +1,6 @@
 ## Hi there! 👋
-I'm Michael, an analyst focusing on **statistical programming** and **research methodology**. I'm passionate about applying quantitative methods to data related to health, government, and surveys.
+I'm Michael, a data scientist with specialties in **computer vision**, **time series forecasting**, and **optimization**. I'm passionate about helping purpose-driven individuals and organizations harness the power of the data they generate every day.
 
-🔬 **Looking for:** Research/Statistical Assistant or Statistical Programming opportunities in healthcare/pharma, government, or market research.
+🔬 **Looking for:** Data-related opportunities in the **e-commerce**, **content marketing**, and **luxury** domains.
 
 📫 **Contact:** michaelhanley11@gmail.com
