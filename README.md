@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Michael, a data scientist with specialties in **computer vision**, **time series forecasting**, and **optimization**. I'm passionate about helping purpose-driven individuals and organizations harness the power of the data they generate every day.
+I'm Michael, a statistician with specialties in **time series forecasting** and **decision science**. I'm passionate about using rigorous mathematical methods to support purpose-driven individuals and organizations. I want to help you optimize spending and increase revenue so that you can access the resources you need to succeed.
 
-- **Looking for:** Data-related opportunities in the **e-commerce**, **content marketing**, and **luxury** domains.
+- **Looking for:** Data-related opportunities in **operations research**, **product analytics**, and **survey statistics**.
 - **Contact:** michaelhanley11@gmail.com
