@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 I'm Michael, a data analyst, visualization specialist, and applied mathematician based in Seattle, WA. I've moved all project information and documentation to my website, [mhanley.dev](https://mhanley.dev). I'm also in the process of migrating my version control and CI/CD infrastructure to Codeberg.
 
 In the meantime, here are some links to things you're probably looking for if you're here:
