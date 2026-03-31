@@ -9,5 +9,5 @@ In the meantime, here are some links to things you're probably looking for if yo
   - Tools used: R, tidyverse (ggplot2), ggiraph
 
 ## Contact
-[michaelhanley11@gmail.com](mailto:michaelhanley11@gmail.com)
+[michaelhanley11@gmail.com](mailto:michaelhanley11@gmail.com)\
 [LinkedIn](https://www.linkedin.com/in/michaeljosephhanley)
